@@ -22,9 +22,10 @@
 // console.log(' booleanIsLoggedIn=:'+booleanIsLoggedIn);
 // console.log('check data Type booleanIsLoggedIn=:'+ typeof booleanIsLoggedIn);
 
-let isLoggedIn="";
-console.log('check data Type isLoggedIn=:'+isLoggedIn);
-let booleanIsLoggedIn=Boolean(isLoggedIn);
-console.log(' booleanIsLoggedIn=:'+booleanIsLoggedIn);
-console.log('check data Type booleanIsLoggedIn=:'+ typeof booleanIsLoggedIn);
+// let isLoggedIn="";
+// console.log('check data Type isLoggedIn=:'+isLoggedIn);
+// let booleanIsLoggedIn=Boolean(isLoggedIn);
+// console.log(' booleanIsLoggedIn=:'+booleanIsLoggedIn);
+// console.log('check data Type booleanIsLoggedIn=:'+ typeof booleanIsLoggedIn);
+
 
